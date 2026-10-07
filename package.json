@@ -1,0 +1,8 @@
+JSON
+{
+  "name": "api-tenis",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
